@@ -3,7 +3,7 @@ Una pequeña api rest de ejemplo creada en nodejs con lenguaje Java script y con
 # ¿Como funciona?
 Aplicar npm install para las librerias que se estan utilizando
 # Requisitos
-- postgresql V 14.5 (instaldo) [link de descarga](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
+- postgresql V 14.5 (instalado) [link de descarga](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
 - seguir el nombre del pool de conexiones en el archivo **database.js**.
 # Correr Api
 solo se debe introducir el siguiente comando en la terminal

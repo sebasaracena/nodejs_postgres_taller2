@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({limit: '50mb', extended: false }))
 
 // parse application/json
 app.use(bodyParser.json());
-
+//app.use(require("./routes"));
 
 conexion.connect().then(resp => {
     console.log('--------------------------------')
